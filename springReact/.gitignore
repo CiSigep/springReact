@@ -5,6 +5,7 @@ target/
 !**/src/test/**
 bin/
 node_modules/
+Users/
 
 ### STS ###
 .apt_generated
