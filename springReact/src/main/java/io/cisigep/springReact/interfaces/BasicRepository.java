@@ -4,6 +4,6 @@ import org.springframework.data.repository.CrudRepository;
 
 import io.cisigep.springReact.model.BasicPersistenceObject;
 
-public interface BasicRepository extends CrudRepository<BasicPersistenceObject, Long>{
+public interface BasicRepository extends CrudRepository<BasicPersistenceObject, Long> {
 
 }
