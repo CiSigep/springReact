@@ -5,3 +5,13 @@ A quick boilerplate code snippet integrating Spring Data REST with React as desc
 Initialized with Spring Initializr.
 
 Requires JDK 8, NodeJS, and Maven to run.
+
+To run locally use:
+
+```
+./mvnw spring-boot:run 
+```
+
+in the project folder.
+
+To shutdown, send a post to the "/actuator/shutdown"
