@@ -34243,6 +34243,7 @@ function ObjectList(props) {
     return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "String: ", ele.stringValue, ", Number: ", ele.numValue);
   })));
 }
+;
 
 /***/ })
 
