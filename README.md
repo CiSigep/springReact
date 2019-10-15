@@ -14,4 +14,4 @@ To run locally use:
 
 in the project folder.
 
-To shutdown, send a post to the "/actuator/shutdown"
+To shutdown, send a POST request to the "/actuator/shutdown"
